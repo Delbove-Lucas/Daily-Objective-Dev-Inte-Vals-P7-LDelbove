@@ -32,8 +32,8 @@ Benjamin
 
 - [x] Pimper son profile Github
 - [ ] Découvrir l'interface de Github :
-  - [ ] Pull Requests
-  - [ ] Branches
-  - [ ] Issues
-  - [ ] Settings projet
-  - [ ] Settings profile
+  - [x] Pull Requests
+  - [x] Branches
+  - [x] Issues
+  - [x] Settings projet
+  - [x] Settings profile
